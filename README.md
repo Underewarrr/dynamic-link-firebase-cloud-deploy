@@ -22,8 +22,8 @@ This system allows for the generation of dynamic links using the Firebase Dynami
 4. **Development Environment**: Set up a `.env.local` file at the root of your Next.js project to store API keys and other sensitive information.
 
     ```
-    FIREBASE_API_KEY=AIzaSyAg-D-moM0u6oBx9dDqvgvyrKWZ-5tY1SU
-    FIREBASE_DYNAMIC_LINK=dltapp.page.link
+    FIREBASE_API_KEY=YOURKEY
+    FIREBASE_DYNAMIC_LINK=YOUR FIREBASE DYNAMIC LINK DOMAIN
     ```
 
 
